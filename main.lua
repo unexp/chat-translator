@@ -258,9 +258,9 @@ wait()
 
 local properties = {
     Color = Color3.new(1, 1, 1);
-    TextStrokeTransparency = 0.75
+    TextStrokeTransparency = 0.75;
     TextTransparency = 0.25;
-    Font = Enum.Font.SourceSans;
+    Font = Enum.Font.SourceSansBold;
     TextSize = 16;
 }
 
